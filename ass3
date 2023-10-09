@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=c
+c=b
+b=a
+a=d
+print("a:",a)
+print("b:",b)
+print("c:",c)
+print("d:",d)
